@@ -1,2 +1,1 @@
-# Conflict-Readme
-Conflict Readme Conflict Readme Conflict Readme Conflict Readme
+# The Team Note - v1.0
